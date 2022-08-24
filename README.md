@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ... kodluyoruz ile
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+fedamhjaz69@gmail.com
 
-<!---
-fedaabdullah/fedaabdullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://codesandbox.io/s/elated-grass-bdog4g
+https://redux-toolkit.js.org/tutorials/quick-start
