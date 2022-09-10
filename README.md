@@ -7,9 +7,11 @@
   ...
   fedamhjaz69@gmail.com
   
-      linkein:  https://www.linkedin.com/in/feda-abdullah-056623238/
-
      codesandbox : https://codesandbox.io/s/elated-grass-bdog4g
 
-     REDDUX :       https://redux-toolkit.js.org/tutorials/quick-start
+     REDDUX :    https://redux-toolkit.js.org/tutorials/quick-start
+     
+      Linkedin: https://www.linkedin.com/in/feda-abdullah-056623238/
+      
+     eduflow:   https://app.eduflow.com/settings/account
 
