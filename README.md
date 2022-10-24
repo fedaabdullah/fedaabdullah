@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @fedaabdullah
-- 👀 I’m interested in ...metametik
-- 🌱 I’m currently learning ... kodluyoruz ile
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @ Feda Abdullah
+- 👀 I’m Interested in programming and web development
+- 🌱Graduated from Kodluyoruz Academy
+- 💞️ I’m looking  to cooperating in programming and web development ...
 - 📫 How to reach me 
 - 
-  ...
+  E-mail address :
   fedamhjaz69@gmail.com
   
      codesandbox : https://codesandbox.io/s/elated-grass-bdog4g
